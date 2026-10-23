@@ -5,6 +5,7 @@ package twitter;
 
 import java.util.List;
 import java.util.ArrayList;
+
 /**
  * Filter consists of methods that filter a list of tweets for those matching a
  * condition.

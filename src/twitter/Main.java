@@ -72,6 +72,28 @@ public class Main {
         for (Tweet tweet : Filter.containing(tweets, Arrays.asList("rivest", "pset"))) {
             System.out.println("    " + tweet);
         }
+        
+
+System.out.println();
+System.out.println("top 10 influencers:");
+
+List<String> influencers = SocialNetwork.influencers(
+        SocialNetwork.guessFollowsGraph(tweets));
+
+int limit = Math.min(10, influencers.size());
+
+for (int i = 0; i < limit; i++) {
+    String user = influencers.get(i);
+    int followerCount = 0;
+
+    for (Set<String> followedUsers :
+            SocialNetwork.guessFollowsGraph(tweets).values()) {
+        // Count is calculated below using the graph.
+    }
+
+    System.out.println(user);
+}
+
     }
 
     /**

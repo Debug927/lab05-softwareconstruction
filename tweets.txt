@@ -1,8 +1,14 @@
 1|alyssa|2016-02-17T10:00:00Z|is it reasonable to talk about rivest so much?
-2|bbitdiddle|2016-02-17T11:00:00Z|rivest talk in 30 minutes #hype
+2|bbitdiddle|2016-02-17T11:00:00Z|@Rivest talk in 30 minutes #hype
 3|alyssa|2016-02-17T12:30:00Z|@bbitdiddle saving you a seat, ask @Evaluator too
-4|evaluator|2016-02-17T13:00:00Z|thanks @BBitDiddle! the talk was great
-5|cy_d_fect|2016-02-17T14:00:00Z|mail me at cy@mit.edu if you want the slides
+4|evaluator|2016-02-17T13:00:00Z|thanks @BBitDiddle and @Alyssa! the talk was great
+5|cy_d_fect|2016-02-17T14:00:00Z|mail me at cy@mit.edu if you want the slides, @Rivest
 6|bbitdiddle|2016-02-17T15:00:00Z|reading the @Rivest paper again tonight
 7|alyssa|2016-02-17T16:00:00Z|finishing the PSET before the deadline
 8|evaluator|2016-02-17T17:00:00Z|no mentions here, just coffee
+9|ben-b|2016-02-17T18:00:00Z|thanks @Alyssa for sharing your notes
+10|louis_r|2016-02-17T19:00:00Z|@Alyssa can you send me the notes?
+11|cy_d_fect|2016-02-17T20:00:00Z|thanks @ALYSSA for the help
+12|rivest|2016-02-17T21:00:00Z|discussion after the talk was useful
+13|louis_r|2016-02-17T21:45:00Z|note to self: @louis_r start the pset earlier next time
+14|ben-b|2016-02-17T22:30:00Z|great discussion with @Rivest and @BBitDiddle
